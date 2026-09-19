@@ -1,0 +1,458 @@
+
+INTERNATIONAL MONETARY FUND
+
+# WORLD ECONOMIC OUTLOOK UPDATE
+
+Global Economy in Crosscurrents of War and Technology
+
+2026
+JUL
+
+
+
+
+
+
+
+# JUL 2026
+
+# WORLD ECONOMIC OUTLOOK UPDATE
+
+## **Global Economy in Crosscurrents of War and Technology**
+
+*Global growth is projected to be 3.0 percent in 2026 and 3.4 percent in 2027, down from the average of 3.5 percent observed in 2024–25 and broadly unchanged on a cumulative basis compared with the forecasts in the **April 2026 World Economic Outlook (WEO)**. The modest slowdown reflects the effects of the war in the Middle East being partly offset by accelerated demand-driven momentum in the global technology cycle thanks to advances in artificial intelligence (AI) and its adoption. The impact varies widely based on countries' exposure to the war and position in the technology value chain. Energy exporters outside the conflict ~~zone~~ benefit from favorable terms of trade, whereas economies plugged into the technology-led upturn experience stronger activity even if they are energy importers. In contrast, activity weakens for energy importers with limited participation in the technology value chain, a group that includes many low-income countries. Global headline inflation is expected to increase from 4.1 percent in 2025 to 4.7 percent in 2026 before declining to 3.9 percent in 2027. *Slightly revised upward from April*, these projections indicate that the disinflation trend in place since the beginning of 2024 has stalled.*
+
+*Risks to the outlook are more balanced than in *April* but still tilted to the downside. The possibility of renewed Middle East conflict looms large and could extend commodity price volatility, further threaten supply chains, raise prices, and weigh on financial conditions. Trade fragmentation could accelerate, possibly hurting output and increasing prices. A possible correction in technology-driven expectations adds to the downside risks, whereas eroded policy buffers can amplify those risks. Upside risks stem from a swifter-than-expected normalization in energy markets, stronger-than-expected technology investment, a revival of durable cooperation that lowers trade barriers, and structural reform that raises medium-term growth. Policy priorities are restoring price stability, supported by clear communication, central bank independence, and strong financial oversight, while rebuilding fiscal buffers and using fiscal tools sparingly through temporary, targeted support that preserves price signals. Structural reforms are needed to promote energy security, AI readiness, domestic rebalancing, and international cooperation should be strengthened to relieve the strain of ongoing tensions.*
+
+## **Uneven Momentum Continues amid Opposing Shocks**
+
+Global economic activity and the outlook are being shaped by two major forces, pushing in opposite directions with asymmetric effects across countries. First is the negative supply shock induced by the war in the Middle East. Second is the ongoing positive technology shock manifesting in accelerated momentum of the global technology cycle, in no small part driven by advances in and deployment of artificial intelligence (AI) tools.
+
+The global economy as a whole has, so far, weathered <u>the shock from the war</u> better than feared. Movements in and repercussions from the main channels of transmission—commodity prices, inflation expectations, and financial conditions—have been relatively limited. However, transmission is still in the early stages—commercial and strategic destocking have provided temporary relief from reduced energy flows, whereas forward-looking indicators such as supply-chain pressure and manufacturing purchasing managers' indices point to softer momentum ahead—and some countries are experiencing more strain than others.
+
+International Monetary Fund | July 2026
+
+
+
+# WORLD ECONOMIC OUTLOOK UPDATE
+
+- *Commodity prices* are still elevated, but ceasefires and a memorandum of understanding between Iran and the United States have cooled prices from their April 2026 peaks, in part by justifying adjustment in inventories to tackle what are perceived to be temporary shortfalls. Energy prices are roughly 25 percent higher than prewar levels. The oil futures curve is in backwardation—higher spot prices than futures—through the end of 2026, in line with supply disruptions and heightened geopolitical risk. Even so, the curve implies an average petroleum spot price index of $78 per barrel for 2026, compared with the $82 per barrel assumed under the reference forecast in the April 2026 *World Economic Outlook* (WEO) and $100 per barrel assumed under the April adverse scenario. The relatively muted increase in global oil prices reflects the fact that part of the decrease in oil flows through the Strait of Hormuz has been compensated for by a drawdown of inventories, containing the need for oil consumption and production to adjust through prices (Figure 1). That said, the global picture blurs glaring differences across countries: Even though oil markets are globally connected and generally track price benchmarks such as Brent, Dubai, and West Texas Intermediate, countries routinely pay different prices for their imports, reflecting oil type, geographic distance from the source, ability to secure long-term government-to-government deals, and sanctions, and pass-through to retail gasoline prices varies depending on taxes, subsidies, and market regulation. As a result of this plethora of factors, since the onset of the war, retail gasoline prices have risen by 30 percent in emerging Asia and by only 15 percent in Latin America. The market for natural gas tends to be less globally connected, reflected by liquefied natural gas prices climbing by about 50 percent in Asia and 25 percent in Europe since the war started, whereas US Henry Hub prices have increased by only about 10 percent.
+
+- Inflation and *inflation expectations* have risen, but there is little evidence of de-anchoring thus far. Driven by surging energy prices, global headline inflation rose for a third month in a row year over year in May, breaking the downward trend that has been in place since the beginning of 2024. Sequential headline inflation jumped by almost 4 percentage points between February and April (at a seasonally adjusted annualized rate), even as core inflation has remained relatively stable to date in most countries. The discrepancy between headline and core inflation has been wider in countries that had more slack and narrower in countries that put in place measures to cap fuel prices. Elevated energy prices and higher headline inflation readings have stoked inflation expectations for 2026 across countries, whereas expectations for 2027 have moved much less (Figure 2). The variation across countries is considerable, however, and in some cases household expectations have reacted more.
+
+### Figure 1. Global Oil Balance Adjusts to War-Induced Shortfall (Million barrels per day; March–May vs. January–February)
+
+| Category                | Value |
+| ----------------------- | ----- |
+| Jan.–Feb.               | 2.0   |
+| Gulf production         | -13.8 |
+| Other production        | 1.8   |
+| Lower consumption       | 6.0   |
+| Oil on water            | -1.1  |
+| OECD stock              | 2.4   |
+| Other stock             | 0.3   |
+| Discrepancy             | 0.2   |
+| March–May balance: -4.0 |       |
+
+
+Sources: International Energy Agency, *Oil Market Report*; and IMF staff calculations.
+
+Note: "Discrepancy" captures measurement and estimation errors. The "Jan.–Feb." bar indicates that in those months production was on average 2 million barrels per day above consumption. Seasonal factors are embedded in the estimation of changes. Some data are preliminary and subject to change. OECD = Organisation for Economic Co-operation and Development.
+
+2 International Monetary Fund | July 2026
+
+
+
+# **WORLD ECONOMIC OUTLOOK UPDATE**
+
+- *Global financial conditions* have eased since their peaks in early April and continue to be accommodative by historical standards (Box 1). The easing trend has been accompanied by bouts of volatility, and markets are pricing in higher nominal policy rates in response to the reappearance of inflationary pressures. This, along with other factors, has raised long-term sovereign yields, again with variation across countries.
+
+On the back of these developments, *global growth* in the first quarter of 2026 turned out to be stronger than expected, slowing from 3.8 percent in the fourth quarter of 2025 to 3.0 percent on a quarter-over-quarter annualized basis, instead of the 2.7 percent forecast in the April 2026 WEO. Part of this can be explained by the steady increase in the share of renewable energy in global energy production and the fact that many economies are less energy intensive than they were even just a few years ago (see Chapter 3 of October 2025 WEO), making them more resilient than expected to higher energy prices. Fiscal support and robust domestic demand in some countries are a contributing factor as well.
+
+That said, much of the positive surprise was concentrated in a few economies that are well integrated into <u>the global technology value chain</u>, even though some of these economies also had exposure to commodity market disruptions originating from the war: For instance, the top four net exporters of AI-related hardware (Taiwan Province of China, Korea, Thailand, and Malaysia) had an average seasonally adjusted annualized surprise of 4.4 percentage points, whereas the surprise for the world's remaining countries was -0.3 percentage point. Korea, despite its heavy reliance on imported energy from the Middle East, surprised with a 7.5 percent growth rate, more than four times the 1.8 percent projected in April, powered primarily by a semiconductor and AI-hardware export boom. China's economy expanded faster than expected at 8.1 percent (based on the IMF staff's seasonally adjusted estimates), with the expansion driven by front-loaded public infrastructure investment and a surge in high-tech manufacturing and in exports, even as domestic consumption remained soft. Japan's economy grew by 1.8 percent, also beating expectations, with a strong contribution from net trade and exports and a pickup in
+
+----
+
+## Figure 2. Inflation Expectations Rise, but Mostly in the Short Term *(Density)*
+
+### January 2026 Consensus Forecast vs May 2026 Consensus Forecast
+
+| Category                                                        | January 2026 Consensus Forecast                                                                                                                                                                                                                                                                                                                                                               | May 2026 Consensus Forecast                                                                                                                                                                                                                                                                                                                                                                                                      |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| \*\*1. Distribution of 2026 Headline CPI Inflation in AEs\*\*   | <table> <tr> <th>X</th> <th>Value</th> </tr> <tr> <td>0</td> <td>0.03</td> </tr> <tr> <td>1</td> <td>0.15</td> </tr> <tr> <td>2</td> <td>0.40</td> </tr> <tr> <td>3</td> <td>0.25</td> </tr> <tr> <td>4</td> <td>0.10</td> </tr> <tr> <td>5</td> <td>0.02</td> </tr> <tr> <td>6</td> <td>0.0</td> </tr> </table>                                                                              | <table> <tr> <th>X</th> <th>Value</th> </tr> <tr> <td>0</td> <td>0.0</td> </tr> <tr> <td>1</td> <td>0.05</td> </tr> <tr> <td>2</td> <td>0.15</td> </tr> <tr> <td>3</td> <td>0.35</td> </tr> <tr> <td>4</td> <td>0.25</td> </tr> <tr> <td>5</td> <td>0.10</td> </tr> <tr> <td>6</td> <td>0.05</td> </tr> <tr> <td>7</td> <td>0.0</td> </tr> </table>                                                                              |
+| \*\*2. Distribution of 2026 Headline CPI Inflation in EMDEs\*\* | <table> <tr> <th>X</th> <th>Value</th> </tr> <tr> <td>0</td> <td>0.03</td> </tr> <tr> <td>2</td> <td>0.23</td> </tr> <tr> <td>4</td> <td>0.08</td> </tr> <tr> <td>6</td> <td>0.02</td> </tr> <tr> <td>8</td> <td>0.01</td> </tr> <tr> <td>10</td> <td>0.01</td> </tr> <tr> <td>12</td> <td>0.02</td> </tr> <tr> <td>14</td> <td>0.03</td> </tr> <tr> <td>16</td> <td>0.02</td> </tr> </table> | <table> <tr> <th>X</th> <th>Value</th> </tr> <tr> <td>0</td> <td>0.0</td> </tr> <tr> <td>2</td> <td>0.05</td> </tr> <tr> <td>4</td> <td>0.20</td> </tr> <tr> <td>5</td> <td>0.22</td> </tr> <tr> <td>6</td> <td>0.10</td> </tr> <tr> <td>8</td> <td>0.02</td> </tr> <tr> <td>10</td> <td>0.01</td> </tr> <tr> <td>12</td> <td>0.01</td> </tr> <tr> <td>14</td> <td>0.02</td> </tr> <tr> <td>16</td> <td>0.02</td> </tr> </table> |
+| \*\*3. Distribution of 2027 Headline CPI Inflation in AEs\*\*   | <table> <tr> <th>X</th> <th>Value</th> </tr> <tr> <td>0</td> <td>0.03</td> </tr> <tr> <td>1</td> <td>0.15</td> </tr> <tr> <td>2</td> <td>0.38</td> </tr> <tr> <td>3</td> <td>0.35</td> </tr> <tr> <td>4</td> <td>0.15</td> </tr> <tr> <td>5</td> <td>0.03</td> </tr> <tr> <td>6</td> <td>0.0</td> </tr> </table>                                                                              | <table> <tr> <th>X</th> <th>Value</th> </tr> <tr> <td>0</td> <td>0.03</td> </tr> <tr> <td>1</td> <td>0.12</td> </tr> <tr> <td>2</td> <td>0.38</td> </tr> <tr> <td>3</td> <td>0.35</td> </tr> <tr> <td>4</td> <td>0.12</td> </tr> <tr> <td>5</td> <td>0.03</td> </tr> <tr> <td>6</td> <td>0.0</td> </tr> </table>                                                                                                                 |
+| \*\*4. Distribution of 2027 Headline CPI Inflation in EMDEs\*\* | <table> <tr> <th>X</th> <th>Value</th> </tr> <tr> <td>0</td> <td>0.03</td> </tr> <tr> <td>2</td> <td>0.18</td> </tr> <tr> <td>4</td> <td>0.22</td> </tr> <tr> <td>6</td> <td>0.08</td> </tr> <tr> <td>8</td> <td>0.02</td> </tr> <tr> <td>10</td> <td>0.01</td> </tr> <tr> <td>12</td> <td>0.01</td> </tr> <tr> <td>14</td> <td>0.01</td> </tr> <tr> <td>16</td> <td>0.0</td> </tr> </table>  | <table> <tr> <th>X</th> <th>Value</th> </tr> <tr> <td>0</td> <td>0.03</td> </tr> <tr> <td>2</td> <td>0.15</td> </tr> <tr> <td>4</td> <td>0.21</td> </tr> <tr> <td>5</td> <td>0.18</td> </tr> <tr> <td>6</td> <td>0.08</td> </tr> <tr> <td>8</td> <td>0.02</td> </tr> <tr> <td>10</td> <td>0.01</td> </tr> <tr> <td>12</td> <td>0.01</td> </tr> <tr> <td>14</td> <td>0.01</td> </tr> <tr> <td>16</td> <td>0.0</td> </tr> </table> |
+
+
+Sources: Consensus Economics; and IMF staff calculations.  
+Note: Dashed vertical lines mark the cross-country simple means per vintage. The sample includes 34 AEs and 33 EMDEs in the Consensus Forecast. AEs = advanced economies; CPI = consumer price index; EMDEs = emerging market and developing economies.
+
+International Monetary Fund | July 2026 3
+
+
+
+
+
+# **WORLD ECONOMIC OUTLOOK UPDATE**
+
+private consumption. In Germany, GDP expanded by 1.4 percent, twice the April 2026 WEO projection of 0.7 percent, driven by net exports. In the United States, GDP increased at an annualized rate of 2.1 percent in the first quarter of 2026, slower than the 2.5 percent projected in April, but still a solid pace. Business investment in equipment and intellectual property products acted as a strong growth engine against a surge in imports and a softening in consumer spending and added to a rebound in government spending relative to the previous quarter, following the end of the federal government shutdown.
+
+## **Outlook Varies by Exposure to the War and the Technology Value Chain**
+
+IMF staff projections assume that the reopening of the Strait of Hormuz begins in mid-July, with conditions broadly returning to the prewar state of affairs by March 2027. Severe shortages would generally be avoided through further drawdown of inventories, but shortages are assumed to arise in some emerging market and developing economies that do not have stocks available and face strong competition from wealthier counterparts for available cargoes. Commodity price projections are based on market pricing as of June 10, which is consistent with the assumption on the timeline regarding the war.
+
+- Energy prices are projected to remain higher than they were before the war: The average petroleum spot price index is projected at $89 per barrel, 9 percent higher than assumed under the reference forecast in the April 2026 WEO, and natural gas prices (based on Dutch Title Transfer Facility futures) at $15, 5 percent higher than the April reference forecast price. This corresponds to an increase of 32 percent in crude oil prices and 22 percent in natural gas prices in 2026, relative to 2025 (Figure 3). Fertilizer prices are projected to rise by 26 percent. Reflecting higher energy and fertilizer costs and more expensive transport, food prices are expected to increase by 8 percent. The prices paid for commodities in various countries may deviate from global benchmarks.
+
+### Figure 3. Commodity Price Assumptions Are Revised Up (Percent)
+
+| Commodity       | Jan. 2026 WEO Update (as of Nov. 20, 2025) | Apr. 2026 WEO: Preconflict forecasts (as of Feb. 11, 2026) | Apr. 2026 WEO: Reference forecasts (as of Mar. 12, 2026) | July 2026 WEO Update (as of Jun. 10, 2026) |
+| --------------- | ------------------------------------------ | ---------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------ |
+| Crude oil       | -8                                         | -2                                                         | 22                                                       | 31                                         |
+| Natural gas     | -5                                         | -8                                                         | 16                                                       | 22                                         |
+| Food            | 0                                          | 2                                                          | 5                                                        | 7                                          |
+| ARM             | -1                                         | -3                                                         | 0                                                        | 8                                          |
+| Fertilizers     | 5                                          | 0                                                          | 12                                                       | 26                                         |
+| Base metals     | 3                                          | 15                                                         | 21                                                       | 20                                         |
+| Precious metals | 24                                         | 46                                                         | 56                                                       | 37                                         |
+
+
+Source: IMF staff calculations.
+Note: Bars show 2026 growth rates over previous years for different commodities at different points in time. ARM = agricultural raw materials; WEO = *World Economic Outlook*.
+
+- Monetary policy is expected to be less supportive, given visible inflationary pressures combined with a relatively muted slowdown in activity. Policy rates in the euro area and the United States are assumed to be held largely steady in ex-ante real terms, whereas the policy rate in Japan is expected to gradually move toward a neutral setting. Fiscal policy in advanced economies is expected to be broadly neutral in 2026 before tightening later. In emerging market and developing economies, fiscal policy is expected to tighten gradually. Current trade policies are assumed to be maintained through the forecast horizon, including measures presented as temporary. Both the effective US tariff rate underlying the forecast and the
+
+4 International Monetary Fund | July 2026
+
+
+
+
+
+# **WORLD ECONOMIC OUTLOOK UPDATE**
+
+effective tariff rate imposed by the rest of the world on US imports are broadly the same as in the April 2026 WEO.
+
+- Policy and geopolitical uncertainty are assumed to **remain elevated through 2027**. The AI-driven global technology cycle is assumed to moderate, and there is no exogenous boost to productivity growth.
+
+Based on these assumptions, <u>global growth</u> is projected to slow to 3.0 percent in 2026 before recovering to 3.4 percent in 2027 (Table 1 and Annex Table 1). The broadly unchanged cumulative overall picture compared with the April 2026 WEO conceals substantial cross-country variation, with upgrades for some energy exporters and economies that are closely integrated into the global technology value chain—even for those dependent on the Strait of Hormuz for their energy needs—and downgrades for commodity importers that are not well positioned to benefit from AI-driven activity (Figure 4). World trade volume growth is projected to slow sharply from 5.0 percent in 2025 to 3.5 percent in 2026 before recovering to 4.3 percent in 2027. These dynamics reflect earlier front-loading and the drag from tariffs as well as the gradual adjustment of trade linkages and production chains through, among other things, trade diversion and rerouting and the brisk growth of technology-related trade flows.
+
+## Figure 4. Growth Revisions Vary by Exposures to the War and Technology Cycle
+*(Percentage points; revision to cumulative 2026–27 growth forecast, July 2026 WEO Update minus January 2026 WEO Update)*
+
+| Category                    | Value |
+| --------------------------- | ----- |
+| MENA                        | -2.7  |
+| Energy-importing AEs        | -0.4  |
+| Energy-importing EMDEs      | -0.1  |
+| Energy-exporting AEs        | -0.1  |
+| Energy-exporting EMDEs      | 0.1   |
+| Top 4 AI hardware exporters | 1.4   |
+
+
+Sources: Trade Data Monitor; and IMF staff calculations.
+Note: The bars denote purchasing-power-parity-weighted group means of each country's cumulative-growth revision. Bahrain, Iran, Iraq, Kuwait, Qatar, Saudi Arabia, and the United Arab Emirates are included in "MENA" (Middle East and North Africa) but excluded from "Energy-exporting EMDEs." Energy exporters and importers are classified using 2024 oil, natural gas, and coal trade data. Top 4 AI hardware exporters are Korea, Malaysia, Taiwan Province of China, and Thailand. AI hardware exports include those classified under Harmonized System codes 847150, 847170, 847180, 847330, 848610, 848620, 848630, 848640, 848690, 854231, and 854232. AEs = advanced economies; AI = artificial intelligence; EMDEs = emerging market and developing economies; WEO = *World Economic Outlook*.
+
+Growth in <u>advanced economies</u> is projected at 1.7 percent in 2026 and 1.8 percent in 2027. Outcomes remain uneven within the group: Net energy exporters are partly cushioned by favorable terms-of-trade effects, whereas net energy importers experience a more pronounced drag from higher energy prices unless they are lifted by technology-related activity. In the <u>United States</u>, growth is projected at 2.3 percent in 2026 and 2.2 percent in 2027, virtually unchanged from April. Activity is supported by fiscal policy, accommodative financial conditions, and continued technology-related business investment and productivity strength, with only limited impact from the war given the country's net energy exporter status. In the <u>euro area</u>, growth is projected at 0.9 percent in 2026 and 1.2 percent in 2027. The forecast for 2026 is 0.2 percentage point lower than in the April WEO, reflecting a sizable negative carryover from the first quarter, which is driven largely by Ireland but also indicative of soft momentum elsewhere, as well as the drag from higher energy prices—notwithstanding some fiscal cushioning measures—and weak consumer confidence. In the <u>United Kingdom</u>, growth is projected to fall to 1.0 percent in 2026 before recovering to 1.3 percent in 2027 as the energy shock fades. Growth in <u>Japan</u> is projected to slow to 0.6 percent in 2026, with fiscal support measures partly cushioning the impact from
+
+International Monetary Fund | July 2026 5
+
+
+
+# **WORLD ECONOMIC OUTLOOK UPDATE**
+
+higher energy prices, and recover slightly to 0.7 percent in 2027 as the energy shock dissipates. In Korea, growth is expected to rise to 2.6 percent in 2026 and 2.5 percent in 2027, buoyed by strong external demand for semiconductors, which dominates the negative impact of the war. In Canada, growth is expected to ease to 1.1 percent in 2026 and rise to 1.7 percent in 2027, as slower population growth, weak investment, and trade uncertainty are only partly offset by terms-of-trade gains and still-resilient consumption. Stronger 2027 growth depends on effective policy implementation and a firmer private investment response.
+
+In *emerging market and developing economies*, growth is projected to slow to 3.8 percent in 2026 before recovering to 4.5 percent in 2027. The revisions are heterogeneous, reflecting differences in commodity dependence, geographic exposure, remittances and tourism receipts, sensitivity to financial conditions, and position in the global technology value chain. China's 2026 growth is projected to slow to 4.6 percent, as higher global oil prices, together with protracted uncertainty and structural headwinds, are expected to weigh on activity. India remains among the fastest-growing major economies, with growth projected at 6.4 percent, supported by strong momentum in private consumption and services activity. In Malaysia, the economy is projected to grow at a rate of 4.7 percent in 2026, benefiting from data center activity and the upturn in the global technology cycle. Growth for Thailand in 2026 is also revised upward by 0.4 percentage point to 1.9 percent, reflecting emergency fiscal measures and further supported by robust technology-related exports and investment. The 2026 growth projection for Vietnam is revised upward by 0.4 percentage point to 7.5 percent on account of stronger-than-expected technology exports adding to robust domestic demand. By contrast, small island developing states are expected to experience slower growth because of higher energy costs as well as weaker tourism and remittances.
+
+In the *Middle East and Central Asia*, growth is projected to drop sharply to 0.7 percent in 2026 before rebounding to 6.5 percent in 2027. This is a downward revision of 1.2 percentage point for 2026 and an upward revision of 1.9 percentage points for 2027, consistent with a longer closure of the Strait of Hormuz compared with the assumptions in the April WEO and a corresponding larger rebound. Iraq, Kuwait, and Qatar—commodity producers most affected by disruptions to energy output and transport—are projected to experience sharp contractions of their economies in 2026, followed by double-digit expansions in 2027. Saudi Arabia is somewhat less affected, as an economy with more diversified export routes, with growth forecasts of 1.7 percent in 2026 and 5.5 percent in 2027. Growth in Iran in 2026 is revised upward by 0.7 percentage point, relative to April, to -5.4 percent, reflecting a better outturn for oil exports in March and April and some relaxation of the restrictions on the country's exports, and downward by 0.3 percentage point for 2027 because of the less pronounced contraction in the previous year. Commodity importers in the Middle East and North Africa are expected to remain relatively resilient to the negative terms-of-trade shock from higher energy and food prices, while countries in the Caucasus and Central Asia continue to experience favorable growth tailwinds.
+
+Growth in *sub-Saharan Africa* is expected to remain broadly stable at 4.3 percent in 2026, though this masks substantial divergence across countries, reflecting differences in policy space, reform implementation, and exposure to external shocks. Oil-importing, non-resource-intensive economies are more adversely affected by higher energy and food prices, whereas some larger
+
+6 International Monetary Fund | July 2026
+
+
+
+
+
+# **WORLD ECONOMIC OUTLOOK UPDATE**
+
+economies continue to benefit from earlier stabilization and reform efforts, even though they are largely absent from the AI-driven global technology upswing and face headwinds from the decline in official development assistance. *Nigeria* is supported by improved macroeconomic stability and favorable terms-of-trade effects, though higher prices for essentials are expected to further aggravate poverty and food insecurity. *South Africa*'s growth outlook is expected to remain stable in the near term and continue to improve on the back of strengthened policy frameworks and ongoing structural reforms. Growth in the rest of the region is expected to slow markedly from 5.6 percent in 2025 to 5.2 percent in 2026 and 2027.
+
+**Latin America and the Caribbean**, growth is projected to be stable at 2.4 percent in 2026 and to pick up modestly to 2.7 percent in 2027, with heterogeneous dynamics across countries. Growth in *Brazil* is expected to remain resilient in 2026 but to slow somewhat next year. In *Mexico*, growth is projected to accelerate modestly amid less restrictive domestic policies, but uncertainty will continue to constrain activity.
+
+In *emerging and developing Europe*, growth is expected to remain restrained at about 2.0 percent. Stronger export revenues, in part because of higher commodity prices, provide partial relief to the economy in *Russia*, maintaining a growth rate of 1.1 percent. The outlook for energy-intensive economies and those that depend on fossil fuel imports is challenging, although the headwinds from higher energy prices are partly offset by tailwinds from increased defense spending.
+
+*Global inflation* is expected to pause its steady decline. Headline inflation is projected to rise from 4.1 percent in 2025 to 4.7 percent in 2026 before easing to 3.9 percent in 2027, with the increase for 2026 driven mainly by higher energy and food prices. The forecast for 2026 is revised upward by 0.3 percentage point from the April 2026 WEO, whereas that for 2027 is revised upward by 0.2 percentage point. Inflation dynamics are expected to remain uneven across countries, reflecting differences in exchange rate pass-through, the persistence of services price inflation, labor market conditions, and the growing importance of country-specific factors. Core inflation is expected to return to target only gradually in several major economies: by mid-2027 in the United Kingdom, by the end of 2027 in Japan and the United States, and only in 2028 in the euro area. Inflation in China is expected to rise from low levels.
+
+## **Risks Are More Balanced Than in April, but Still Tilted to the Downside**
+
+The most imminent risk to the baseline forecast stems from developments in the Middle East. Reescalation of geopolitical tensions would hurt growth and compound inflationary pressures. That said, if the reopening of the Strait of Hormuz goes more smoothly than assumed and commodity prices turn out to be lower than in the baseline, growth could be higher and inflation lower. Activity could also surprise on the upside in the short term if AI-related capital spending remains exceptionally strong or financial conditions ease more, continuing to offset the headwinds from geopolitical tensions, trade fragmentation, and weak policy buffers. But AI hype and exuberant financial markets could, at the same time, sow the seeds of macrofinancial instability.
+
+Renewed conflict would propagate through a further increase in commodity prices and extended volatility, supply shortages, and exchange rate pressures. The muted increase in oil prices and
+
+International Monetary Fund | July 2026 7
+
+
+
+
+
+# **WORLD ECONOMIC OUTLOOK UPDATE**
+
+their contained impact on activity owe to the release of inventories, which are now getting closer to multiyear lows and could reach stress levels should supply disruptions persist or hoarding gather steam. Even if inventories are not depleted, if the shock is perceived to *repeat* or become more permanent, willingness to accommodate it with drawdowns could weaken, with potentially nonlinear dynamics in prices. Actions by individual countries to secure domestic supply and to replenish inventories could further amplify global price pressures. Food insecurity could worsen materially if disruptions in fertilizer and energy markets intensify or linger, especially in low-income countries in South Asia and sub-Saharan Africa, whose food supply is provided largely by smallholder farmers unable to outbid competitors from wealthier nations.
+
+In countries with limited reserves and constrained policy space, these dynamics could widen external imbalances and increase the likelihood of balance of payments stress. Higher food and energy prices could heighten the risk of social unrest and domestic political instability, especially in vulnerable economies in sub-Saharan Africa or in countries with upcoming elections. At the same time, increased global risk aversion and greater frictions in cross-border finance could trigger capital outflows and abrupt asset repricing in emerging markets with weaker fundamentals. In an environment of persistently elevated geopolitical tensions beyond the Middle East, higher military expenditure could provide temporary support to aggregate demand in some cases, but it would also divert resources from more productive uses (Chapter 2 of the April 2026 WEO). Should tensions broaden into open war, the resulting human and physical losses would dominate any short-lived demand effects (Chapter 3 of the *April 2026 WEO*).
+
+Trade tensions could reignite—especially if trade diversion or unbalanced trade prompts more economies to adopt tariff increases and nontariff restrictions—and weigh on growth. Measures targeting upstream sectors or critical intermediate inputs could generate supply bottlenecks with disproportionately large effects on output and prices. Retaliatory measures would amplify these costs and could disrupt global supply chains.
+
+Eroded policy buffers could function as an amplification mechanism. As calls intensify to use fiscal resources to mitigate the direct impact of the current adverse shocks and to tackle structural challenges, elevated public debt in several major economies leaves sovereign markets exposed to a reassessment of fiscal sustainability, especially if other adverse shocks materialize in tandem. Any resulting repricing could lift sovereign yields, tighten global financial conditions, and intensify refinancing pressures, particularly in highly indebted developing economies. For many low-income countries, declining official development assistance could further complicate any fiscal adjustment needed to restore market confidence and limit the increase in yields, weakening health, education, and social protection systems in the presence of looming hazards—such as the Ebola public health emergency of international concern and the high probability of extreme weather events driven by an extraordinarily strong El Niño. Under renewed inflationary pressures, even perceptions of political pressure on independent central banks and other economic institutions could weaken policy credibility and de-anchor inflation expectations, requiring monetary policy to remain tighter for longer to restore confidence. Higher term premiums, persistently elevated funding costs, and capital outflows would then weigh on activity, particularly in economies that markets already perceive as vulnerable.
+
+8 International Monetary Fund | July 2026
+
+
+
+
+
+# **WORLD ECONOMIC OUTLOOK UPDATE**
+
+The risks from the other major force shaping the outlook—the positive technology shock—are more distinctly two-sided. On the one hand, if the recent surge in AI-related investment were to translate more rapidly into broad-based deployment and efficiency gains, medium-term growth could strengthen. The gains would likely be larger and more persistent if accompanied by policies that ease energy and infrastructure constraints, increase access to critical inputs, and facilitate labor reallocation across sectors. In low-income countries, realizing such benefits would also require closing gaps in electricity supply, digital infrastructure, and skills. On the other hand, expectations regarding AI-related profitability and productivity gains could be revised downward. In such a scenario, investment in technology-intensive sectors could **retrench abruptly**, and frothy equity valuations—particularly in AI-exporting economies and markets with high concentration in technology firms—could correct sharply. Such a repricing could be amplified by higher *risk sensitivity* among AI-exposed investors and would likely weigh on private consumption through wealth effects. It could also transmit across borders through trade linkages, cross-border portfolio exposures, and capital flow adjustments. The broader consequence could be tighter global financial conditions, balance sheet pressures, and weaker activity extending beyond the technology sector. In addition, AI could amplify cybersecurity risks to digital infrastructure, potentially disrupting financial intermediation and payment systems and undermining confidence more broadly.
+
+Global growth could rise above baseline if tangible progress is made in international negotiations and domestic policy agendas. Durable peace agreements could **rapidly restore global trade routes** and supply chains. Trade pacts could lower tariffs and revive investment that has been delayed by an uncertain external environment. The gains would be larger if cooperation extended beyond goods tariffs to those on services and to foreign direct investment. Challenges from fragmentation and demographics, together with the prospect of transformative technological change, could also provide impetus for long-delayed structural reforms.
+
+## <color=blue>Current Challenges Demand Nimble and Credible Policies</color>
+
+The war confronts policymakers with difficult trade-offs among containing inflation, supporting activity, and protecting vulnerable households. Meanwhile, strong AI-driven activity exerts additional upward pressure on prices but sustains consumption in the short term, while exposing the financial system to greater risk of instability. The policy task is to manage the immediate impact of the current shocks while building robustness to the different ways these and future shocks may unfold. This calls for country-specific responses—reflecting differences in inflation dynamics, fiscal space, and financial vulnerabilities—alongside renewed international cooperation.
+
+Monetary policy should continue to remain focused on preserving price stability. Appropriate responses depend on the varying effects across countries of higher commodity prices, as well as technology-driven demand, and the spillovers to inflation expectations. Where inflationary pressures are visible but judged to be temporary and inflation expectations remain anchored, central banks should keep real rates broadly constant over a reasonable horizon, which may imply raising nominal policy rates. If higher inflation is paired with higher demand pressures from the technology-led upturn, central banks may need to do more to avoid overheating. Where inflation was still above target when the war started, credibility is weaker, exchange rate
+
+International Monetary Fund | July 2026 9
+
+
+
+# **WORLD ECONOMIC OUTLOOK UPDATE**
+
+pass-through is greater, or second-round effects appear more likely, policy may need to remain tighter for longer—or be tightened further—to prevent de-anchoring. If negative demand shocks surface such that growth weakens materially and inflationary pressures recede, scope for easing could emerge but would have to **remain consistent with restoring price stability**.
+
+Under elevated uncertainty, communication is itself a policy tool. Central banks should state clearly how incoming data alter the balance of risks. Preserving legal and operational independence remains essential, particularly where the postpandemic inflation episode has already strained credibility. Shielding monetary policy from political pressures and fiscal dominance is necessary to ensure that restrictive settings can be maintained, if needed, until inflation is durably back on track to target.
+
+Maintaining orderly adjustment and financial stability amid the ongoing large shocks is essential. For countries with inflation targets or other domestic nominal anchors, exchange rates should generally remain the preferred option, helping economies absorb external shocks and preserve relative price adjustment. However, where market conditions become disorderly and depreciation amplifies inflation risks or balance sheet stress, temporary foreign exchange intervention or targeted capital flow measures may complement the macroeconomic policy mix, consistent with the IMF's Integrated Policy Framework. At the same time, central banks and supervisors should intensify surveillance of sovereign, bank, and nonbank exposures; assess liquidity and funding risks under adverse scenarios; and ensure that capital, liquidity, and reserve buffers remain adequate so that they can be released in a timely manner should financial conditions deteriorate abruptly and **trigger macrofinancial feedback loops**.
+
+Many countries have resorted to fiscal tools in response to the Middle East war (Figure 5). Energy-related fiscal support, especially price-distorting measures, should be removed as the energy shock abates so as to preserve fiscal buffers. More generally, fiscal policy should avoid broad-based subsidies, tax cuts, and price controls, which are typically poorly targeted, fiscally costly, and politically difficult to unwind. If support is deemed necessary, it should be temporary, tightly targeted to vulnerable households, and embedded in a macroeconomic policy mix consistent with price stability. The bar for supporting **firms** should be high: Any support should be for viable, energy-intensive firms, conditional on energy efficiency improvements. Except under narrow conditions, measures should preserve price signals and include clear sunset clauses,
+
+### Figure 5. Countries Are Resorting Mostly to Fiscal Measures (Percent)
+
+| Region                       | Fiscal-Spending | Fiscal-Taxes | Price controls | Monetary | Financial, including CFM | Real interventions | Fiscal-Other | FXI | Trade measures |
+| ---------------------------- | --------------- | ------------ | -------------- | -------- | ------------------------ | ------------------ | ------------ | --- | -------------- |
+| Europe                       | 28              | 32           | 8              | 12       | 2                        | 10                 | 4            | 4   | 12             |
+| Western Hemisphere           | 31              | 20           | 19             | 14       | 1                        | 10                 | 5            | 1   | 10             |
+| Asia and Pacific             | 26              | 16           | 10             | 10       | 1                        | 37                 | 1            | 1   | 8              |
+| Sub-Saharan Africa           | 19              | 18           | 19             | 14       | 2                        | 26                 | 2            | 1   | 9              |
+| Middle East and Central Asia | 23              | 10           | 18             | 14       | 4                        | 20                 | 5            | 2   | 10             |
+
+
+**Source:** IMF staff calculations.
+**Note:** Bars show policy responses since February 2026 to the war in the Middle East as of June 2, 2026, based on the IMF Global Policy Tracker (www.imf.org/en/imf-global-policy-tracker). The tracker follows nine broad categories of announced policies: Taxes (for example, cuts in fuel, electricity, transportation, or food duties); Spending (subsidies to fuel and electricity or transfers to households or businesses, among others); Other fiscal measures (new or increased credit or bank guarantees); Price controls (on food, fuel, electricity, water, or transportation); Monetary measures (changes in interest rates or reserve requirements); FXI (purchase or sale and swap arrangements); Financial measures (CFM tools, liquidity support, and other regulatory actions); Trade measures (export bans or controls on fuel and other products); and Real interventions (supply-side measures such as release of strategic reserves and demand-side measures such as rationing and conservation, work from home, and reduced workweek). CFM = capital flow management; FXI = foreign exchange intervention.
+
+10 International Monetary Fund | July 2026
+
+
+
+
+
+# **WORLD ECONOMIC OUTLOOK UPDATE**
+
+transparent eligibility criteria, and well-identified offsets, especially where fiscal space is limited. Reforms committed to in advance to build systems for delivering targeted transfers in adherence to these principles would allow more effective use of scarce fiscal resources and help countries withstand political economy pressures. Economies benefiting from commodity windfalls and the upturn in the global technology cycle should avoid procyclical spending and save or redeploy gains within a credible medium-term fiscal framework anchored in debt sustainability.
+
+Rebuilding fiscal space remains essential given elevated debt, higher borrowing costs, and heightened external uncertainty. Credible medium-term consolidation should rest on durable revenue measures, stronger tax administration, greater spending efficiency, and <u>reallocation</u> toward growth-enhancing priorities such as infrastructure, skills, and well-targeted social protection. In high-debt economies, adjustment may also require deeper spending rationalization and active management of interest rate and refinancing risks.
+
+Structural reforms can ease macroeconomic trade-offs by increasing flexibility and capacity. Priorities for tackling the current challenges start with measures to enhance business dynamism. Faster adoption of renewable and energy-efficient technologies to improve energy security can contain vulnerability to future price shocks and support climate goals. The benefits of AI and digitalization can be <u>reaped</u> more effectively if supported by investment in skills, energy, and digital infrastructure, as well as through **robust governance** for data and cybersecurity. On a more macroeconomic scale, correcting domestic imbalances—further rebalancing in China, credible fiscal consolidation in the United States, and deeper single-market integration in the European Union—would strengthen global adjustment.
+
+Commonly agreed international economic rules are essential to produce more sustainable growth and promote international economic integration. Trade frameworks should be transparent, predictable, and mutually beneficial. Where trade measures are implemented to address cross-border spillovers, including those arising from industrial policies, they should be carefully targeted. Trade rules should be modernized to <u>reflect</u> structural shifts such as the growing role of services and the increasing emphasis on supply chain resilience. Regional and plurilateral arrangements can help if they minimize distortive provisions.
+
+International cooperation remains critical to manage spillovers, including commodity market pressures, refugee flows, and debt vulnerabilities. Export bans should be avoided, because they not only exacerbate the strain trading partners feel, by triggering supply shortages and increasing global price volatility, but also distort domestic resource allocation by artificially depressing prices at home. IMF lending can provide an important backstop to liquidity strains, but countries facing debt distress may also require timely and orderly debt resolution, supported by continued progress under the Group of Twenty Common Framework and the Global Sovereign Debt Roundtable.
+
+International Monetary Fund | July 2026 11
+
+
+
+# WORLD ECONOMIC OUTLOOK UPDATE
+
+## Table 1. Overview of the **World Economic Outlook Projections**
+_<Percent change, unless noted otherwise>_
+
+|                                                  | Year over Year<br/>2024 | Year over Year<br/>2025 | Year over Year<br/>Projections<br/>2026 | Year over Year<br/>Projections<br/>2027 | Difference from April 2026 WEO Projections 1/<br/>2026 | Difference from April 2026 WEO Projections 1/<br/>2027 | Q4 over Q4 2/<br/>2025 | Q4 over Q4 2/<br/>2026 | Q4 over Q4 2/<br/>2027 |
+| ------------------------------------------------ | ----------------------- | ----------------------- | --------------------------------------- | --------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------ | ---------------------- | ---------------------- | ---------------------- |
+| **World Output**                                 | **3.5**                 | **3.5**                 | **3.0**                                 | **3.4**                                 | **-0.1**                                               | **0.2**                                                | **3.4**                | **2.9**                | **3.4**                |
+| **Advanced Economies**                           | **1.9**                 | **1.9**                 | **1.7**                                 | **1.8**                                 | **-0.1**                                               | **0.1**                                                | **1.9**                | **1.6**                | **1.9**                |
+| United States                                    | 2.8                     | 2.1                     | 2.3                                     | 2.2                                     | 0.0                                                    | 0.1                                                    | 2.0                    | 2.3                    | 2.1                    |
+| Euro Area 3/                                     | 1.0                     | 1.4                     | 0.9                                     | 1.2                                     | -0.2                                                   | 0.0                                                    | 1.2                    | 1.0                    | 1.5                    |
+| Germany                                          | -0.5                    | 0.2                     | 0.7                                     | 1.0                                     | -0.1                                                   | -0.2                                                   | 0.4                    | 0.5                    | 1.2                    |
+| France                                           | 1.4                     | 0.9                     | 0.6                                     | 0.9                                     | -0.3                                                   | 0.0                                                    | 1.1                    | 0.4                    | 1.0                    |
+| Italy                                            | 0.8                     | 0.5                     | 0.5                                     | 0.5                                     | 0.0                                                    | 0.0                                                    | 0.9                    | 0.1                    | 1.0                    |
+| Spain                                            | 3.5                     | 2.8                     | 2.1                                     | 1.8                                     | 0.0                                                    | 0.0                                                    | 2.6                    | 1.5                    | 2.2                    |
+| Japan                                            | -0.2                    | 1.1                     | 0.6                                     | 0.7                                     | -0.1                                                   | 0.1                                                    | 0.4                    | 1.1                    | 0.8                    |
+| United Kingdom                                   | 1.0                     | 1.4                     | 1.0                                     | 1.3                                     | 0.2                                                    | 0.0                                                    | 1.0                    | 0.9                    | 2.1                    |
+| Canada                                           | 2.0                     | 1.9                     | 1.1                                     | 1.7                                     | -0.4                                                   | -0.2                                                   | 0.7                    | 2.1                    | 1.0                    |
+| Other Advanced Economies 4/                      | 2.5                     | 3.0                     | 2.8                                     | 2.3                                     | 0.2                                                    | 0.1                                                    | 4.1                    | 1.6                    | 2.7                    |
+| **Emerging Market and Developing Economies**     | **4.5**                 | **4.5**                 | **3.8**                                 | **4.5**                                 | **-0.1**                                               | **0.3**                                                | **4.5**                | **3.9**                | **4.5**                |
+| Emerging and Developing Asia                     | 5.5                     | 5.6                     | 5.0                                     | 4.8                                     | 0.1                                                    | 0.0                                                    | 5.5                    | 4.5                    | 5.4                    |
+| China                                            | 5.0                     | 5.0                     | 4.6                                     | 4.1                                     | 0.2                                                    | 0.1                                                    | 4.6                    | 4.0                    | 4.9                    |
+| India 5/                                         | 7.1                     | 7.7                     | 6.4                                     | 6.7                                     | -0.1                                                   | 0.2                                                    | 7.8                    | 5.8                    | 6.8                    |
+| Emerging and Developing Europe                   | 3.8                     | 2.0                     | 1.9                                     | 2.1                                     | -0.1                                                   | 0.0                                                    | 1.8                    | 2.3                    | 1.9                    |
+| Russia                                           | 4.9                     | 1.0                     | 1.1                                     | 1.1                                     | 0.0                                                    | 0.0                                                    | 0.7                    | 1.9                    | 0.1                    |
+| Latin America and the Caribbean                  | 2.4                     | 2.4                     | 2.4                                     | 2.7                                     | 0.1                                                    | 0.0                                                    | 2.1                    | 3.0                    | 2.2                    |
+| Brazil                                           | 3.4                     | 2.3                     | 2.4                                     | 2.2                                     | 0.5                                                    | 0.2                                                    | 2.0                    | 2.9                    | 2.1                    |
+| Mexico                                           | 1.5                     | 0.5                     | 1.2                                     | 1.9                                     | -0.4                                                   | -0.3                                                   | 1.6                    | 1.5                    | 1.7                    |
+| Middle East and Central Asia                     | 3.1                     | 3.7                     | 0.7                                     | 6.5                                     | -1.2                                                   | 1.9                                                    | ...                    | ...                    | ...                    |
+| Saudi Arabia                                     | 2.6                     | 4.6                     | 1.7                                     | 5.5                                     | -1.4                                                   | 1.0                                                    | 5.2                    | 1.8                    | 5.6                    |
+| Sub-Saharan Africa                               | 4.2                     | 4.5                     | 4.3                                     | 4.5                                     | 0.0                                                    | 0.1                                                    | ...                    | ...                    | ...                    |
+| Nigeria                                          | 4.1                     | 4.0                     | 4.1                                     | 4.3                                     | 0.0                                                    | 0.0                                                    | 3.9                    | 3.8                    | 4.5                    |
+| South Africa                                     | 0.5                     | 1.1                     | 1.1                                     | 1.3                                     | 0.1                                                    | 0.0                                                    | 1.5                    | 0.5                    | 2.0                    |
+| *Memorandum*                                     |                         |                         |                                         |                                         |                                                        |                                                        |                        |                        |                        |
+| World Growth Based on Market Exchange Rates      | 2.9                     | 2.9                     | 2.4                                     | 2.8                                     | -0.2                                                   | 0.2                                                    | 2.7                    | 2.5                    | 2.7                    |
+| European Union                                   | 1.2                     | 1.6                     | 1.2                                     | 1.4                                     | -0.1                                                   | 0.0                                                    | 1.4                    | 1.2                    | 1.6                    |
+| ASEAN-5 6/                                       | 4.8                     | 4.5                     | 4.1                                     | 4.3                                     | 0.0                                                    | -0.1                                                   | 4.8                    | 3.5                    | 4.9                    |
+| Middle East and North Africa                     | 2.7                     | 3.3                     | -0.5                                    | 7.3                                     | -1.6                                                   | 2.5                                                    | ...                    | ...                    | ...                    |
+| Emerging Market and Middle-Income Economies      | 4.5                     | 4.4                     | 3.7                                     | 4.4                                     | -0.1                                                   | 0.3                                                    | 4.5                    | 3.9                    | 4.5                    |
+| Low-Income Developing Countries                  | 4.3                     | 4.8                     | 4.8                                     | 4.9                                     | 0.0                                                    | 0.0                                                    | ...                    | ...                    | ...                    |
+| **World Trade Volume (goods and services) 7/**   | **3.7**                 | **5.0**                 | **3.5**                                 | **4.3**                                 | **0.7**                                                | **0.5**                                                | ...                    | ...                    | ...                    |
+| Advanced Economies                               | 2.3                     | 4.2                     | 3.4                                     | 3.3                                     | 0.9                                                    | 0.4                                                    | ...                    | ...                    | ...                    |
+| Emerging Market and Developing Economies         | 6.1                     | 6.4                     | 3.6                                     | 5.8                                     | 0.5                                                    | 0.6                                                    | ...                    | ...                    | ...                    |
+| **Commodity Prices**                             |                         |                         |                                         |                                         |                                                        |                                                        |                        |                        |                        |
+| Oil 8/                                           | -1.8                    | -14.4                   | 31.8                                    | -11.8                                   | 10.4                                                   | -4.2                                                   | -15.1                  | 38.5                   | -11.2                  |
+| Nonfuel (average based on world commodity import | 3.7                     | 9.9                     | 18.6                                    | 1.3                                     | -3.1                                                   | -0.6                                                   | 14.4                   | 10.8                   | 1.3                    |
+| **World Consumer Prices 9/**                     | **5.8**                 | **4.1**                 | **4.7**                                 | **3.9**                                 | **0.3**                                                | **0.2**                                                | **3.5**                | **4.3**                | **2.9**                |
+| Advanced Economies 10/                           | 2.6                     | 2.5                     | 3.0                                     | 2.4                                     | 0.2                                                    | 0.2                                                    | 2.5                    | 3.3                    | 2.0                    |
+| Emerging Market and Developing Economies 9/      | 8.0                     | 5.2                     | 5.8                                     | 4.8                                     | 0.3                                                    | 0.2                                                    | 4.2                    | 5.1                    | 3.6                    |
+
+
+**Note:** Real effective exchange rates are assumed to remain constant at the levels prevailing during May 11–June 8, 2026. Economies are listed on the basis of economic size. The aggregated quarterly data are seasonally adjusted. "..." indicates that data are not available or not applicable. WEO = **World Economic Outlook**.
+
+1/ Difference based on rounded figures for the current and April 2026 WEO forecasts. Countries for which forecasts have been updated relative to April 2026 WEO forecasts account for approximately 90 percent of world GDP measured at purchasing-power-parity weights.
+
+2/ For World Output (Emerging Market and Developing Economies), the quarterly estimates and projections account for approximately 90 percent (80 percent) of annual world (emerging market and developing economies) output at purchasing-power-parity weights.
+
+3/ Quarterly GDP growth forecasts for euro area are based on six economies (France, Germany, Ireland, Italy, The Netherlands, Spain), which account for approximately 85 percent of euro area GDP.
+
+4/ Excludes the Group of Seven (Canada, France, Germany, Italy, Japan, United Kingdom, United States) and euro area countries. The projection for 2027 Q4-over-Q4 GDP growth accounts for approximately 44 percent of group output at purchasing-power-parity weights.
+
+5/ For India, data and projections are presented on a fiscal year (FY) basis, with FY 2024/25 (starting in April 2024) shown in the 2024 column. India's growth projections are 7.0 percent for 2026 and 6.4 percent for 2027 based on calendar years.
+
+6/ Indonesia, Malaysia, Philippines, Singapore, Thailand. ASEAN = Association of Southeast Asian Nations.
+
+7/ Simple average of growth rates for export and import volumes (goods and services).
+
+8/ Simple average of prices of UK Brent, Dubai Fateh, and West Texas Intermediate crude oil. The average assumed price of oil in US dollars a barrel, based on futures markets (as of June 10, 2026), is $89.27 for 2026 and $78.70 for 2027.
+
+9/ Excludes Venezuela.
+
+10/ The assumed inflation rate for the euro area is 2.9 percent for 2026 and 2.3 percent for 2027, that for Japan is 2.3 percent for 2026 and 2.5 percent for 2027, and that for the United States is 3.6 percent for 2026 and 2.4 percent for 2027.
+
+12 International Monetary Fund | July 2026
+
+
+
+
+
+JUL 2026
+# BOX 1. GLOBAL FINANCIAL MARKETS UPDATE
+
+**Strong corporate earnings and a resilient global economy have helped cushion the financial system from the effects of the Middle East conflict.**
+
+Financial conditions remain accommodative and have eased further on prospects of conflict de-escalation, as corporate bond spreads remain historically tight and equity markets have strengthened since the April 2026 *Global Financial Stability Report* (GFSR), despite higher market-implied policy rates (Figure 1.1). More than 80 percent of firms in the S&P 500 index beat their earnings estimates in the first quarter of 2026, keeping the average price-to-earnings ratio broadly constant at a historically high level, with interest-rate- and energy-sensitive sectors experiencing little revision to earnings estimates. The concentration of equity markets in artificial intelligence (AI) stocks, which earlier GFSR reports discussed, has continued to intensify, and stock markets with sizable AI exposures—Japan, Korea, Taiwan Province of China, and the United States—are outperforming others so far in the second quarter of 2026.
+
+**The possibility of second-round effects of higher energy prices has raised expected policy rate paths through 2026, despite crude oil prices falling from earlier highs** (Figure 1.2). A number of central banks in both advanced and emerging market economies have already been raising policy rates. Longer-term yields are also higher globally, and inflation uncertainty could compound fiscal vulnerabilities, as discussed in the April 2026 GFSR.
+
+**Policy rate repricing in emerging markets has varied considerably, reflecting differences in energy dependence highlighted in the April 2026 GFSR.** In crude-oil-importing Asian emerging markets, deterioration in the terms of trade has worsened the inflation outlook and put pressure on exchange rates, prompting a sharper upward repricing of expected policy paths. Energy exporters outside the Middle East, by contrast, have seen stronger currency performances, which have helped contain inflation expectations and risk premiums. Portfolio flows to emerging markets have stabilized following the sharp retrenchment at the immediate onset of the conflict. Investor appetite for hard-currency debt remains robust, with several high-yield emerging markets and frontier economies successfully issuing internationally.
+
+### Figure 1.1. Financial Conditions Ease Following Postconflict Tightening (Index; number of standard deviations from long-term mean)
+
+| Date    | United States | China | Euro area | EMs ex-China | Other AEs |
+| ------- | ------------- | ----- | --------- | ------------ | --------- |
+| 2023 Q1 | 0             | 0.8   | 0.2       | 0.6          | 0.9       |
+| 2023 Q2 | -1.4          | 0.7   | -0.4      | -0.2         | 0.2       |
+| 2023 Q3 | -0.8          | 0.1   | -0.2      | 0.1          | -0.1      |
+| 2023 Q4 | -0.5          | -0.1  | -0.5      | 0.0          | -0.3      |
+| 2024 Q1 | -0.3          | -0.2  | -0.6      | -0.1         | -0.4      |
+| 2024 Q2 | -0.2          | -0.3  | -0.7      | -0.2         | -0.5      |
+| 2024 Q3 | -0.1          | -0.4  | -0.8      | -0.3         | -0.6      |
+| 2024 Q4 | 0.0           | -0.5  | -0.9      | -0.4         | -0.7      |
+| Jan 20  | -0.1          | -0.6  | -0.9      | -0.5         | -0.8      |
+| Feb 09  | -0.2          | -0.7  | -0.9      | -0.5         | -0.8      |
+| Mar 01  | -0.3          | -0.8  | -0.9      | -0.5         | -0.8      |
+| Mar 21  | -0.4          | -0.9  | -0.8      | -0.4         | -0.7      |
+| Apr 10  | -0.5          | -1.0  | -0.7      | -0.3         | -0.6      |
+| Apr 30  | -0.6          | -1.1  | -0.6      | -0.2         | -0.5      |
+| May 20  | -0.7          | -1.2  | -0.5      | -0.1         | -0.4      |
+| Jun 09  | -0.8          | -1.5  | -0.4      | 0.0          | -0.3      |
+
+
+Sources: Bloomberg Finance L.P.; Dealogic; Europace AG/Haver Analytics; national data sources; and IMF staff calculations.
+Note: The IMF Financial Conditions Index (FCI) is designed to capture the pricing of risk. See Online Annex 1.1 of the October 2018 GFSR for the methodology. A lower (higher) FCI score implies easier (tighter) financial conditions. The dashed lines in the figure show daily FCIs estimated using available high-frequency market data. AEs = advanced economies, EMs = emerging markets; excl. = excluding; GFSR = *Global Financial Stability Report*.
+
+### Figure 1.2. Policy Rates Are Expected to Rise (Average increase in expected 2026 Q4 policy rates, basis points)
+
+| Category                 | Since the April 2026 GFSR | Between outbreak of the war and April GFSR |
+| ------------------------ | ------------------------- | ------------------------------------------ |
+| G4                       | 40                        | 10                                         |
+| EMs                      | 35                        | 15                                         |
+| EMs excl. GCC            | 20                        | 15                                         |
+| EMs Asia—crude importers | 65                        | 10                                         |
+
+
+Sources: Bloomberg Finance L.P.; and IMF staff calculations.
+Note: "G4" comprises Japan, the United Kingdom, the United States, and euro area countries. The EM sample includes Brazil, Chile, Colombia, Hungary, India, Indonesia, Malaysia, Mexico, Peru, the Philippines, Poland, South Africa, and Thailand. EMs = emerging markets; excl. GCC = excluding Gulf Cooperation Council, GFSR = *Global Financial Stability Report*.
+
+International Monetary Fund | July 2026 13
+
+
+
+# JUL 2026
+
+# WORLD ECONOMIC OUTLOOK UPDATE: ANNEX
+
+## Annex Table 1. Selected Economies: Real GDP Growth
+_*(Percent change)*_
+
+|                 | 2024 | 2025 | Projections<br/>2026 | Projections<br/>2027 | Difference from April 2026 WEO Projections 1/<br/>2026 | Difference from April 2026 WEO Projections 1/<br/>2027 |
+| --------------- | ---- | ---- | -------------------- | -------------------- | ------------------------------------------------------ | ------------------------------------------------------ |
+| Argentina       | -1.3 | 4.4  | 3.5                  | 4.0                  | 0.0                                                    | 0.0                                                    |
+| Australia       | 1.0  | 2.0  | 1.9                  | 1.7                  | -0.1                                                   | 0.0                                                    |
+| Brazil          | 3.4  | 2.3  | 2.4                  | 2.2                  | 0.5                                                    | 0.2                                                    |
+| Canada          | 2.0  | 1.9  | 1.1                  | 1.7                  | -0.4                                                   | -0.2                                                   |
+| China           | 5.0  | 5.0  | 4.6                  | 4.1                  | 0.2                                                    | 0.1                                                    |
+| Egypt 2/        | 2.4  | 4.4  | 4.6                  | 4.4                  | 0.4                                                    | -0.4                                                   |
+| France          | 1.4  | 0.9  | 0.6                  | 0.9                  | -0.3                                                   | 0.0                                                    |
+| Germany         | -0.5 | 0.2  | 0.7                  | 1.0                  | -0.1                                                   | -0.2                                                   |
+| India 2/        | 7.1  | 7.7  | 6.4                  | 6.7                  | -0.1                                                   | 0.2                                                    |
+| Indonesia       | 5.0  | 5.1  | 5.0                  | 5.1                  | 0.0                                                    | 0.0                                                    |
+| Iran 2/ 3/      | 3.7  | -0.8 | -5.4                 | 2.9                  | 0.7                                                    | -0.3                                                   |
+| Italy           | 0.8  | 0.5  | 0.5                  | 0.5                  | 0.0                                                    | 0.0                                                    |
+| Japan           | -0.2 | 1.1  | 0.6                  | 0.7                  | -0.1                                                   | 0.1                                                    |
+| Kazakhstan      | 5.0  | 6.5  | 4.6                  | 4.4                  | 0.0                                                    | 0.0                                                    |
+| Korea           | 2.2  | 1.1  | 2.6                  | 2.5                  | 0.7                                                    | 0.4                                                    |
+| Malaysia        | 5.2  | 5.2  | 4.7                  | 4.3                  | 0.0                                                    | 0.0                                                    |
+| Mexico          | 1.5  | 0.5  | 1.2                  | 1.9                  | -0.4                                                   | -0.3                                                   |
+| The Netherlands | 1.1  | 1.8  | 1.0                  | 1.3                  | -0.2                                                   | -0.1                                                   |
+| Nigeria         | 4.1  | 4.0  | 4.1                  | 4.3                  | 0.0                                                    | 0.0                                                    |
+| Pakistan 2/     | 2.6  | 3.2  | 3.6                  | 3.5                  | 0.0                                                    | 0.0                                                    |
+| Philippines     | 5.7  | 4.4  | 3.9                  | 5.5                  | -0.2                                                   | -0.3                                                   |
+| Poland          | 3.2  | 3.7  | 3.4                  | 2.4                  | 0.1                                                    | 0.0                                                    |
+| Russia          | 4.9  | 1.0  | 1.1                  | 1.1                  | 0.0                                                    | 0.0                                                    |
+| Saudi Arabia    | 2.6  | 4.6  | 1.7                  | 5.5                  | -1.4                                                   | 1.0                                                    |
+| South Africa    | 0.5  | 1.1  | 1.1                  | 1.3                  | 0.1                                                    | 0.0                                                    |
+| Spain           | 3.5  | 2.8  | 2.1                  | 1.8                  | 0.0                                                    | 0.0                                                    |
+| Thailand        | 2.9  | 2.4  | 1.9                  | 2.2                  | 0.4                                                    | 0.1                                                    |
+| Türkiye         | 3.3  | 3.6  | 2.9                  | 3.6                  | -0.5                                                   | 0.1                                                    |
+| United Kingdom  | 1.0  | 1.4  | 1.0                  | 1.3                  | 0.2                                                    | 0.0                                                    |
+| United States   | 2.8  | 2.1  | 2.3                  | 2.2                  | 0.0                                                    | 0.1                                                    |
+
+
+Source: IMF staff calculations.
+Note: The selected economies account for approximately 83 percent of world output. WEO = *World Economic Outlook*.
+1/ Difference based on rounded figures for the current and April 2026 WEO forecasts.
+2/ Data and forecasts are presented on a fiscal year basis.
+3/ The Iran forecast is subject to unusually high uncertainty given geopolitical and sanctions dynamics.
+
+14 International Monetary Fund | July 2026
+WEO Update © 2026 ISBN: 9798229047999
+
